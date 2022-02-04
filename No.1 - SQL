@@ -1,4 +1,0 @@
-<? SQL
-SELECT COUNT (*)
-FROM Student
-WHERE fistName = "John"
